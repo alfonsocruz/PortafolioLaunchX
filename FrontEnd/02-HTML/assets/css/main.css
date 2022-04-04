@@ -1,0 +1,153 @@
+.widget {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.footer .widget-title h4 {
+    display: block;
+    color: #8b384a;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    padding-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.footer .link-widget ul {
+    list-style: none;
+    padding: 0 !important;
+}
+
+.footer .link-widget ul li {
+    padding: 4px 0 !important;
+    margin: 0;
+}
+
+.footer .link-widget ul li:last-child {
+    padding-bottom: 0 !important;
+}
+
+.footer .link-widget ul li,
+.footer .link-widget ul li a {
+    clear: both;
+    color: #555555;
+    background-color: transparent !important;
+    display: block;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    line-height: 1;
+    padding: 0;
+}
+
+.footer .link-widget ul li {
+    position: relative;
+}
+
+.footer .link-widget ul li span {
+    position: absolute;
+    right: 0;
+}
+
+.section {
+    padding: 80px 0;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    background-color: #ffffff;
+}
+
+.section-title {
+    position: relative;
+    display: block;
+    margin-bottom: 40px;
+}
+
+.section-title h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 0 0 15px;
+    margin: 0;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 5px;
+    line-height: 1;
+}
+
+.section-title h3 {
+    font-size: 34px;
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+}
+
+.section-title hr {
+    width: 80px;
+    border-width: 2px;
+    margin: 20px auto 0;
+}
+
+.description{
+    text-align: justify;
+    font-size: 16px;
+    color: #39454c;
+}
+
+.service-small-desc .price {
+    margin-top: 12px;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 24px;
+    color: #39454c;
+}
+
+.service-small-desc .statread {
+    font-size: 16px;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding: 20px 0 0;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+.service-small-desc .stat-count {
+    font-size: 41px;
+}
+
+.readmore {
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.6;
+    text-decoration: underline !important;
+    letter-spacing: 1px;
+}
+
+.service-image {
+    position: relative;
+}
+
+.service-image img {
+    background-color: #ffffff;
+    border: 1px solid #f2f2f2;
+    cursor: pointer;
+    padding: 10px;
+    position: relative;
+}
+
+.service-image h3 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    font-size: 24px;
+    margin: -15px auto;
+    color: #8b384a;
+    text-align: center;
+}
+
+.pimage{
+    width: 300px;
+    height: 200px;
+}
